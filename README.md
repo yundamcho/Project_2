@@ -22,7 +22,7 @@
 - **ORM** : JYP
 
 ## :bomb:기술 스택
--**Server** :AWS EC2
+- **Server** :AWS EC2
 - **DataBase** : Maria DB, MYSQL
 - **WS/ WAS** : 프론트 작성 , Tomcat
 - **OCR** : AWS
