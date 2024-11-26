@@ -47,7 +47,7 @@
    - 물품조회
    - 재고수정
 
-## API
+## :doughnut: API
 - API 상세설명:
 - API 명세서 : 
 
